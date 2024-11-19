@@ -36,7 +36,7 @@ $ git clone https://github.com/hume-cristian/csharp11-dotnet7-microservice-restf
 
 4.- To test if the project is running, you should access the following URL in a web browser
 ```
- http://localhost:5013/api/csharp/v1/users
+ http://localhost:5013/csharp/api/v1/users
 ```
 
 ## Author
